@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<info>
+    <studet>
+        <name>anumta</name>
+        <age>50</age>
+        <address>malir</address>
+        <image>1.jpg</image>
+        <email>3.avif</email>
+    </studet>
+    <studet>
+        <name>ali</name>
+        <age>20</age>
+        <address>malir</address>
+        <image>1.jpg</image>
+        <email>3.avif</email>
+    </studet>
+    <studet>
+        <name>huma</name>
+        <age>20</age>
+        <address>malir</address>
+        <image>2.jpg</image>
+        <email>3.avif</email>
+    </studet>
+    <studet>
+        <name>anumta</name>
+        <age>50</age>
+        <address>malir</address>
+        <image>3.jpg</image>
+        <email>3.avif</email>
+    </studet>
+    <studet>
+        <name>ali</name>
+        <age>20</age>
+        <address>malir</address>
+        <image>4.jpg</image>
+        <email>3.avif</email>
+    </studet>
+    <studet>
+        <name>huma</name>
+        <age>20</age>
+        <address>malir</address>
+        <image>5.jpg</image>
+        <email>3.avif</email>
+    </studet>
+
+</info>
